@@ -1,6 +1,10 @@
 ## fastly
 ### [Fastly](http://www.fastly.com) API client for Node.js
 
+> NOTE: This version of Fastly JavaScript Client is no longer maintained.
+> Fastly now provides a [generated API client](https://dev.to/fastly/better-fastly-api-clients-with-openapi-generator-3lno) to cover the Fastly API.
+> The current version is available at https://github.com/fastly/fastly-js/tree/main.
+
 [![Build Status](https://travis-ci.org/thisandagain/fastly.png?branch=master)](https://travis-ci.org/thisandagain/fastly)
 [![dependencies Status](https://david-dm.org/thisandagain/fastly/status.svg)](https://david-dm.org/thisandagain/fastly)
 
